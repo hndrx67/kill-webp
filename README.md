@@ -52,7 +52,11 @@ Yes Google created WebP image format so that website with images embedded in it 
 
 ## How It Works
 
-KillWEBP intercepts WebP image requests and automatically converts them to PNG format before they're displayed in your browser. This happens in real-time with minimal performance impact. The extension maintains a counter of all conversions and estimates space saved through the conversion process.
+When you download or save an image from a browser it will intercept it and automatically converts it to .png format
+
+## Large Files?
+
+I dont know if it works with large webp files, well-
 
 ## Settings
 ![image](https://github.com/user-attachments/assets/396e16dc-f49e-4d45-8897-03213b7e0580)
