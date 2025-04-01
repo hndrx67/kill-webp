@@ -44,11 +44,11 @@ Yes Google created WebP image format so that website with images embedded in it 
 ## Installation 2
 - **Go to the [Releases](https://github.com/hndrx67/kill-webp/releases) Page to grab to ZIP file**
 - **Extract the zip file**
-- Go into extensions settings of your browser**
-- Click Developer Mode**
-- Click Load Unpack Option**
-- Locate the Folder Your extracted**
-- thats it**
+- **Go into extensions settings of your browser**
+- **Click Developer Mode**
+- **Click Load Unpack Option**
+- **Locate the Folder Your extracted**
+- thats i
 
 ## How It Works
 
