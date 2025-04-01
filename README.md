@@ -36,6 +36,13 @@ I hate Webp, If you are a webp hater then welcome to the club!
 5. Killing is bad, its for webp only!
 
 ## Installation 2
+- **Go to the [Releases](https://github.com/hndrx67/kill-webp/releases) Page to grab to ZIP file
+- **Extract the zip file
+- Go into extensions settings of your browser
+- Click Developer Mode
+- Click Load Unpack Option
+- Locate the Folder Your extracted
+- thats it
 
 ## How It Works
 
