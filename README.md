@@ -11,6 +11,12 @@
 
 I hate Webp, If you are a webp hater then welcome to the club!
 
+## Why?
+
+Yes Google created WebP image format so that website with images embedded in it will load faster, but me as a user who frequently download images from various websites, it is a pain in the ass to view webps, sometimes I dont have the application for it, sometimes it opens an image editor instead of Photos app, so i prefer these images to be converted in .PNG (Portable Network Graphic) format or .JPEG (Joint Photographic Expert Group).
+
+
+
 ## Features
 
 - **Automatic WebP Detection**: Identifies WebP images across all websites
@@ -36,13 +42,13 @@ I hate Webp, If you are a webp hater then welcome to the club!
 5. Killing is bad, its for webp only!
 
 ## Installation 2
-- **Go to the [Releases](https://github.com/hndrx67/kill-webp/releases) Page to grab to ZIP file
-- **Extract the zip file
-- Go into extensions settings of your browser
-- Click Developer Mode
-- Click Load Unpack Option
-- Locate the Folder Your extracted
-- thats it
+- **Go to the [Releases](https://github.com/hndrx67/kill-webp/releases) Page to grab to ZIP file**
+- **Extract the zip file**
+- Go into extensions settings of your browser**
+- Click Developer Mode**
+- Click Load Unpack Option**
+- Locate the Folder Your extracted**
+- thats it**
 
 ## How It Works
 
@@ -66,7 +72,7 @@ KillWEBP is designed to be lightweight and efficient. The extension runs in the 
 ## Privacy
 
 KillWEBP operates entirely within your browser. No data is sent to external servers, and no browsing history is collected. The extension only accesses image data when a WebP image is detected.
-No. really we collect your data so we can Improve our AI services, blah blah, that is for your Adobe, your company sucks! your photoshop and premiere is good tho👍
+No. really we collect your data so we can Improve our AI services, blah blah, that is for your Adobe, your company sucks! your photoshop and premiere are good tho👍
 
 ## Support
 
@@ -84,7 +90,7 @@ KillWEBP is released under the MIT License. See the [LICENSE](LICENSE) file for 
 ## Credits
 
 Developed with ❤️ by [hzy4px](#)
-I dont like Gay People
+Are you Gay?
 
 ---
 
