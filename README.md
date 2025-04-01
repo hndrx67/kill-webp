@@ -3,7 +3,7 @@ A Google Chrome Based Web Browser extension that blocks .WebP image when downloa
 
 # KillWEBP Browser Extension
 
-![KillWEBP Logo]()![icon128](https://github.com/user-attachments/assets/0852cc49-135b-4784-8887-b2db021339f8)
+[icon128](https://github.com/user-attachments/assets/0852cc49-135b-4784-8887-b2db021339f8)
 
 
 **Abandon WebP. Long live PNG!**
