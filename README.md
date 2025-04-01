@@ -1,4 +1,4 @@
-
+## A Google Chrome Based Web Browser extension that blocks .WebP image when downloaded, instead it will convert it to .PNG
 # KillWEBP Browser Extension
 
 
@@ -34,6 +34,8 @@ I hate Webp, If you are a webp hater then welcome to the club!
 3. The extension icon will appear in your browser toolbar
 4. Click the icon to access settings and start killing WebP images!
 5. Killing is bad, its for webp only!
+
+## Installation 2
 
 ## How It Works
 
